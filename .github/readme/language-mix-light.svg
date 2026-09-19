@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="236" viewBox="0 0 560 236">
+<svg xmlns="http://www.w3.org/2000/svg" width="604" height="280" viewBox="0 0 604 280">
+  <defs>
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="600" height="276" rx="22" fill="#dce1e1" stroke="#445555" stroke-width="3" filter="url(#cardShadow)" />
+  <g transform="translate(22,22)">
   <g>
 
     <circle cx="110" cy="118" r="72" fill="none" stroke="#445555"
@@ -100,5 +107,6 @@
       <rect x="0" y="164" width="13" height="13" rx="4" fill="#6e6f7a" />
       <text x="20" y="174.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#161d1d">HTML &#183; 2.02%</text>
     </g>
+  </g>
   </g>
 </svg>
