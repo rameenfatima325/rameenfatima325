@@ -88,8 +88,8 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system"><img src="./.github/readme/cards/sticker-smart-city.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="326"></a>
-  <a href="https://github.com/rameenfatima325/AI-Chatbot"><img src="./.github/readme/cards/sticker-ai-chatbot.png" alt="AI Chatbot — Python, Flask" width="326"></a>
+  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system"><img src="./.github/readme/cards/sticker-smart-city.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="372"></a>
+  <a href="https://github.com/rameenfatima325/AI-Chatbot"><img src="./.github/readme/cards/sticker-ai-chatbot.png" alt="AI Chatbot — Python, Flask" width="372"></a>
 </p>
 
 <p>
@@ -100,8 +100,8 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/OneDesk-University-Portal"><img src="./.github/readme/cards/sticker-onedesk.png" alt="OneDesk — University Portal — Java, JavaFX" width="326"></a>
-  <a href="https://github.com/rameenfatima325/Railway-Management-System"><img src="./.github/readme/cards/sticker-railway.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="326"></a>
+  <a href="https://github.com/rameenfatima325/OneDesk-University-Portal"><img src="./.github/readme/cards/sticker-onedesk.png" alt="OneDesk — University Portal — Java, JavaFX" width="372"></a>
+  <a href="https://github.com/rameenfatima325/Railway-Management-System"><img src="./.github/readme/cards/sticker-railway.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="372"></a>
 </p>
 
 <p>
@@ -112,12 +112,12 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Galaxy-Wars"><img src="./.github/readme/cards/sticker-galaxy-wars.png" alt="Galaxy Wars — C++, SFML" width="326"></a>
-  <a href="https://github.com/rameenfatima325/Xonix-Game"><img src="./.github/readme/cards/sticker-xonix.png" alt="Xonix — C++, SFML" width="326"></a>
+  <a href="https://github.com/rameenfatima325/Galaxy-Wars"><img src="./.github/readme/cards/sticker-galaxy-wars.png" alt="Galaxy Wars — C++, SFML" width="372"></a>
+  <a href="https://github.com/rameenfatima325/Xonix-Game"><img src="./.github/readme/cards/sticker-xonix.png" alt="Xonix — C++, SFML" width="372"></a>
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Super-Mario"><img src="./.github/readme/cards/sticker-super-mario.png" alt="Super Mario Bros (x86 Assembly)" width="326"></a>
+  <a href="https://github.com/rameenfatima325/Super-Mario"><img src="./.github/readme/cards/sticker-super-mario.png" alt="Super Mario Bros (x86 Assembly)" width="372"></a>
 </p>
 
 <p>
@@ -128,7 +128,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/DLD-Calculator-Project"><img src="./.github/readme/cards/sticker-dld-calculator.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="326"></a>
+  <a href="https://github.com/rameenfatima325/DLD-Calculator-Project"><img src="./.github/readme/cards/sticker-dld-calculator.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="372"></a>
 </p>
 
 <p>
