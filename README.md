@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.png">
-    <img src="./.github/readme/hero-name-light.png" alt="Rameen Fatima" height="97">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.gif">
+    <img src="./.github/readme/hero-name-light.gif" alt="Rameen Fatima" height="105">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-tagline-dark.png">
-    <img src="./.github/readme/hero-tagline-light.png" alt="Computer Science Student & Builder" height="39">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-tagline-dark.gif">
+    <img src="./.github/readme/hero-tagline-light.gif" alt="Computer Science Student & Builder" height="47">
   </picture>
 </p>
 
@@ -27,23 +27,55 @@
 - 💬 Ask me about C++ data structures, game dev with SFML, or wiring up an LLM chatbot
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.png">
-  <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" height="76">
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.gif">
+  <img src="./.github/readme/h2-tech-stack-light.gif" alt="Tech Stack" height="84">
 </picture>
 
-![C++](https://img.shields.io/badge/C%2B%2B-6d2748?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ae863d?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6d2748?style=flat&logo=openjdk&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-MASM-ae863d?style=flat)
-![Flask](https://img.shields.io/badge/Flask-6d2748?style=flat&logo=flask&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-ae863d?style=flat)
-![JavaFX](https://img.shields.io/badge/JavaFX-6d2748?style=flat)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-ae863d?style=flat&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6d2748?style=flat&logo=git&logoColor=white)
+<sub>Icons link to the project (or the tool's own site) — click around.</sub>
+
+### Languages
+
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/rameenfatima325/Railway-Management-System)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rameenfatima325/AI-Chatbot)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/rameenfatima325/OneDesk-University-Portal)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge)](https://github.com/rameenfatima325/Super-Mario)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+
+### Frameworks & Libraries
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/rameenfatima325/AI-Chatbot)
+[![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)](https://github.com/rameenfatima325/Xonix-Game)
+[![JavaFX](https://img.shields.io/badge/JavaFX-F58219?style=for-the-badge)](https://github.com/rameenfatima325/OneDesk-University-Portal)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system)
+
+### Databases & Hosting
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://github.com/microsoft/terminal)
+
+### Tools & Design
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/rameenfatima325)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameenfatima325)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.png">
-  <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" height="76">
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.gif">
+  <img src="./.github/readme/h2-featured-projects-light.gif" alt="Featured Projects" height="84">
 </picture>
 
 <picture>
@@ -87,20 +119,27 @@
 | [**4-Bit & 8-Bit Digital Calculator**](https://github.com/rameenfatima325/DLD-Calculator-Project) | Digital Logic Design project: a 4-bit ALU built physically on breadboard (plus Proteus simulation) and an 8-bit version in Proteus, with a custom binary-to-BCD converter driving 7-segment displays. |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.png">
-  <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" height="76">
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.gif">
+  <img src="./.github/readme/h2-github-stats-light.gif" alt="GitHub Stats" height="84">
 </picture>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
-    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following" height="122">
+    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 24 commits, longest streak 4, current streak 1" height="212">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
+    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="480">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
-    <img src="./.github/readme/language-mix-light.svg" alt="Language mix across repos: C++ 3, Python 2, Java 1, x86 Assembly 1, Digital Logic 1" width="480">
+    <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
   </picture>
 </p>

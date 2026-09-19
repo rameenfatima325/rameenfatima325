@@ -6,84 +6,99 @@
       stroke-dashoffset="-0.000" stroke-dasharray="0 452.389"
       transform="rotate(-90 110 118)">
       <animate attributeName="stroke-dasharray"
-        from="0 452.389" to="169.646 282.743"
+        from="0 452.389" to="239.676 212.713"
         dur="0.9s" begin="0.00s" fill="freeze"
-        calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
-    </circle>
-    <circle cx="110" cy="118" r="72" fill="none" stroke="#ae863d"
-      stroke-width="26" stroke-linecap="butt"
-      stroke-dashoffset="-169.646" stroke-dasharray="0 452.389"
-      transform="rotate(-90 110 118)">
-      <animate attributeName="stroke-dasharray"
-        from="0 452.389" to="113.097 339.292"
-        dur="0.9s" begin="0.15s" fill="freeze"
         calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
     </circle>
     <circle cx="110" cy="118" r="72" fill="none" stroke="#d6a58a"
       stroke-width="26" stroke-linecap="butt"
-      stroke-dashoffset="-282.743" stroke-dasharray="0 452.389"
+      stroke-dashoffset="-239.676" stroke-dasharray="0 452.389"
       transform="rotate(-90 110 118)">
       <animate attributeName="stroke-dasharray"
-        from="0 452.389" to="56.549 395.841"
-        dur="0.9s" begin="0.30s" fill="freeze"
+        from="0 452.389" to="141.100 311.289"
+        dur="0.9s" begin="0.12s" fill="freeze"
         calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
     </circle>
-    <circle cx="110" cy="118" r="72" fill="none" stroke="#af889a"
+    <circle cx="110" cy="118" r="72" fill="none" stroke="#b693a4"
       stroke-width="26" stroke-linecap="butt"
-      stroke-dashoffset="-339.292" stroke-dasharray="0 452.389"
+      stroke-dashoffset="-380.776" stroke-dasharray="0 452.389"
       transform="rotate(-90 110 118)">
       <animate attributeName="stroke-dasharray"
-        from="0 452.389" to="56.549 395.841"
-        dur="0.9s" begin="0.45s" fill="freeze"
+        from="0 452.389" to="34.970 417.420"
+        dur="0.9s" begin="0.24s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
+    </circle>
+    <circle cx="110" cy="118" r="72" fill="none" stroke="#ae863d"
+      stroke-width="26" stroke-linecap="butt"
+      stroke-dashoffset="-415.746" stroke-dasharray="0 452.389"
+      transform="rotate(-90 110 118)">
+      <animate attributeName="stroke-dasharray"
+        from="0 452.389" to="16.874 435.515"
+        dur="0.9s" begin="0.36s" fill="freeze"
         calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
     </circle>
     <circle cx="110" cy="118" r="72" fill="none" stroke="#7a5e2b"
       stroke-width="26" stroke-linecap="butt"
-      stroke-dashoffset="-395.841" stroke-dasharray="0 452.389"
+      stroke-dashoffset="-432.620" stroke-dasharray="0 452.389"
       transform="rotate(-90 110 118)">
       <animate attributeName="stroke-dasharray"
-        from="0 452.389" to="56.549 395.841"
+        from="0 452.389" to="10.631 441.758"
+        dur="0.9s" begin="0.48s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
+    </circle>
+    <circle cx="110" cy="118" r="72" fill="none" stroke="#8b6b5a"
+      stroke-width="26" stroke-linecap="butt"
+      stroke-dashoffset="-443.251" stroke-dasharray="0 452.389"
+      transform="rotate(-90 110 118)">
+      <animate attributeName="stroke-dasharray"
+        from="0 452.389" to="9.138 443.251"
         dur="0.9s" begin="0.60s" fill="freeze"
         calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
     </circle>
   </g>
   <g text-anchor="middle" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.5s" fill="freeze" />
-    <text x="110" y="114" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="34" fill="#17080d">8</text>
-    <text x="110" y="138" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="1" fill="#17080d">PROJECTS</text>
+    <text x="110" y="114" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="27" fill="#17080d">C++</text>
+    <text x="110" y="135" font-family="Helvetica, Arial, sans-serif" font-size="11" letter-spacing="0.8" fill="#17080d" opacity="0.8">TOP LANGUAGE</text>
     <animate attributeName="opacity" values="1;0.82;1" dur="2.6s" begin="1.4s" repeatCount="indefinite" />
   </g>
-  <g transform="translate(232,20)">
+  <g transform="translate(232,32)">
 
     <g opacity="0" transform="translate(0,-6)">
-      <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.45s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.55s" dur="0.45s" fill="freeze" />
-      <rect x="0" y="26" width="14" height="14" rx="4" fill="#6d2748" />
-      <text x="22" y="37.5" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17080d">C++ &#183; 3 repos</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.50s" dur="0.4s" fill="freeze" />
+      <rect x="0" y="14" width="13" height="13" rx="4" fill="#6d2748" />
+      <text x="20" y="24.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#17080d">C++ &#183; 52.98%</text>
     </g>
     <g opacity="0" transform="translate(0,-6)">
-      <animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.45s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.70s" dur="0.45s" fill="freeze" />
-      <rect x="0" y="60" width="14" height="14" rx="4" fill="#ae863d" />
-      <text x="22" y="71.5" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17080d">Python &#183; 2 repos</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.62s" dur="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.62s" dur="0.4s" fill="freeze" />
+      <rect x="0" y="44" width="13" height="13" rx="4" fill="#d6a58a" />
+      <text x="20" y="54.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#17080d">Java &#183; 31.19%</text>
     </g>
     <g opacity="0" transform="translate(0,-6)">
-      <animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.45s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.85s" dur="0.45s" fill="freeze" />
-      <rect x="0" y="94" width="14" height="14" rx="4" fill="#d6a58a" />
-      <text x="22" y="105.5" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17080d">Java &#183; 1 repo</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.74s" dur="0.4s" fill="freeze" />
+      <rect x="0" y="74" width="13" height="13" rx="4" fill="#b693a4" />
+      <text x="20" y="84.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#17080d">Assembly &#183; 7.73%</text>
     </g>
     <g opacity="0" transform="translate(0,-6)">
-      <animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.45s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="1.00s" dur="0.45s" fill="freeze" />
-      <rect x="0" y="128" width="14" height="14" rx="4" fill="#af889a" />
-      <text x="22" y="139.5" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17080d">x86 Assembly &#183; 1 repo</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.86s" dur="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.86s" dur="0.4s" fill="freeze" />
+      <rect x="0" y="104" width="13" height="13" rx="4" fill="#ae863d" />
+      <text x="20" y="114.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#17080d">CSS &#183; 3.73%</text>
     </g>
     <g opacity="0" transform="translate(0,-6)">
-      <animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.45s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="1.15s" dur="0.45s" fill="freeze" />
-      <rect x="0" y="162" width="14" height="14" rx="4" fill="#7a5e2b" />
-      <text x="22" y="173.5" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17080d">Digital Logic &#183; 1 repo</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="0.98s" dur="0.4s" fill="freeze" />
+      <rect x="0" y="134" width="13" height="13" rx="4" fill="#7a5e2b" />
+      <text x="20" y="144.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#17080d">TSQL &#183; 2.35%</text>
+    </g>
+    <g opacity="0" transform="translate(0,-6)">
+      <animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,-6" to="0,0" begin="1.10s" dur="0.4s" fill="freeze" />
+      <rect x="0" y="164" width="13" height="13" rx="4" fill="#8b6b5a" />
+      <text x="20" y="174.5" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#17080d">HTML &#183; 2.02%</text>
     </g>
   </g>
 </svg>
