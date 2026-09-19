@@ -16,8 +16,8 @@
 
 Computer Science student who likes building things end-to-end — AI simulations, custom data structures, OOP games, and a Mario clone in raw x86 Assembly.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rameenfatima325-6d2748?style=flat&logo=github&logoColor=white)](https://github.com/rameenfatima325)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rameen%20Fatima-ae863d?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameen-fatima-ba480a219)
+[![GitHub](https://img.shields.io/badge/GitHub-rameenfatima325-445555?style=flat&logo=github&logoColor=white)](https://github.com/rameenfatima325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rameen%20Fatima-5e5a72?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameen-fatima-ba480a219)
 
 🔭 Currently building software for the **Data Structures**, **OOP**, and **AI** courses at FAST-NUCES<br>
 🌱 Learning how classic AI search/optimization algorithms (CSP, A*, Genetic Algorithms) come together in one system<br>
