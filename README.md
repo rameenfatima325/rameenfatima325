@@ -1,11 +1,24 @@
-<h1 align="center">Hi, I'm Rameen Fatima 👋</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.png">
+    <img src="./.github/readme/hero-name-light.png" alt="Rameen Fatima" height="80">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-tagline-dark.png">
+    <img src="./.github/readme/hero-tagline-light.png" alt="Computer Science Student & Builder" height="42">
+  </picture>
+</p>
 
 <p align="center">
   Computer Science student who likes building things end-to-end — AI simulations, custom data structures, OOP games, and a Mario clone in raw x86 Assembly.
 </p>
 
 <p align="center">
-  <a href="https://github.com/rameenfatima325"><img src="https://img.shields.io/badge/GitHub-rameenfatima325-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/rameenfatima325"><img src="https://img.shields.io/badge/GitHub-rameenfatima325-6d2748?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rameen-fatima-ba480a219"><img src="https://img.shields.io/badge/LinkedIn-Rameen%20Fatima-ae863d?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 - 🔭 Currently building software for the **Data Structures**, **OOP**, and **AI** courses at FAST-NUCES
@@ -13,35 +26,50 @@
 - 🛠️ Comfortable across the stack: from breadboard logic gates to Flask web apps
 - 💬 Ask me about C++ data structures, game dev with SFML, or wiring up an LLM chatbot
 
-## 🧰 Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.png">
+  <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" height="62">
+</picture>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-MASM-6E4C13?style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat)
-![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=flat)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-6d2748?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ae863d?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6d2748?style=flat&logo=openjdk&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-MASM-ae863d?style=flat)
+![Flask](https://img.shields.io/badge/Flask-6d2748?style=flat&logo=flask&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-ae863d?style=flat)
+![JavaFX](https://img.shields.io/badge/JavaFX-6d2748?style=flat)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-ae863d?style=flat&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6d2748?style=flat&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.png">
+  <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" height="62">
+</picture>
 
-### 🤖 AI & Algorithms
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-ai-algorithms-dark.png">
+  <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" height="47">
+</picture>
 
 | Project | Description |
 |---|---|
 | [**Smart City Emergency Response & Optimization System**](https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system) | Python simulation combining CSP (city layout), Simulated Annealing + max-flow (road networks), a Genetic Algorithm (ambulance placement), A\* search (routing with live replanning), and K-Means/Decision Trees (crime-risk prediction). |
 | [**AI Chatbot**](https://github.com/rameenfatima325/AI-Chatbot) | Flask web app wrapping Google Gemini 2.5 Flash with switchable personalities, custom personas, and persistent multi-turn chat history. |
 
-### 🧱 Systems & Desktop Software
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
+  <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" height="47">
+</picture>
 
 | Project | Description |
 |---|---|
 | [**OneDesk — University Portal**](https://github.com/rameenfatima325/OneDesk-University-Portal) | JavaFX desktop app centralizing university service requests (academic, financial, certification) with role-based access, audit logging, and Factory/Observer/Strategy/Decorator design patterns. |
 | [**The Iron Nexus — Railway Management System**](https://github.com/rameenfatima325/Railway-Management-System) | Terminal-based C++ system built entirely on hand-rolled data structures — AVL trees, graphs, hash tables + BSTs, stacks — with full undo/redo and persistent storage, no STL containers. |
 
-### 🎮 Games
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
+  <img src="./.github/readme/h3-games-light.png" alt="Games" height="47">
+</picture>
 
 | Project | Description |
 |---|---|
@@ -49,15 +77,27 @@
 | [**Xonix**](https://github.com/rameenfatima325/Xonix-Game) | C++/SFML remake of the 1984 arcade classic with two-player mode, three difficulty levels, flood-fill territory capture, and enemy AI patterns. |
 | [**Super Mario Bros (x86 Assembly)**](https://github.com/rameenfatima325/Super-Mario) | A working Mario platformer written in raw MASM x86 Assembly using Irvine32 — physics, enemy AI, scrolling, sound, and a persistent high-score table, all in text-mode console. |
 
-### 🔌 Hardware
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
+  <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" height="47">
+</picture>
 
 | Project | Description |
 |---|---|
 | [**4-Bit & 8-Bit Digital Calculator**](https://github.com/rameenfatima325/DLD-Calculator-Project) | Digital Logic Design project: a 4-bit ALU built physically on breadboard (plus Proteus simulation) and an 8-bit version in Proteus, with a custom binary-to-BCD converter driving 7-segment displays. |
 
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.png">
+  <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" height="62">
+</picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rameenfatima325&show_icons=true&theme=default&hide_border=true" alt="Rameen's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameenfatima325&layout=compact&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rameenfatima325&show_icons=true&hide_border=true&bg_color=00000000&title_color=d892b3&icon_color=c29a51&text_color=f7e7ed">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rameenfatima325&show_icons=true&hide_border=true&bg_color=00000000&title_color=6d2748&icon_color=ae863d&text_color=17080d" alt="Rameen's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rameenfatima325&layout=compact&hide_border=true&bg_color=00000000&title_color=d892b3&text_color=f7e7ed">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameenfatima325&layout=compact&hide_border=true&bg_color=00000000&title_color=6d2748&text_color=17080d" alt="Top Languages" />
+  </picture>
 </p>
