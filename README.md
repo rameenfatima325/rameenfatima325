@@ -88,29 +88,8 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-smart-city-dark.png">
-      <img src="./.github/readme/cards/front-smart-city-light.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/smart-city-dark.png">
-      <img src="./.github/readme/cards/smart-city-light.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="400">
-    </picture>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/rameenfatima325/AI-Chatbot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-ai-chatbot-dark.png">
-      <img src="./.github/readme/cards/front-ai-chatbot-light.png" alt="AI Chatbot — Python, Flask" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/ai-chatbot-dark.png">
-      <img src="./.github/readme/cards/ai-chatbot-light.png" alt="AI Chatbot — Python, Flask" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system"><img src="./.github/readme/cards/sticker-smart-city.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="326"></a>
+  <a href="https://github.com/rameenfatima325/AI-Chatbot"><img src="./.github/readme/cards/sticker-ai-chatbot.png" alt="AI Chatbot — Python, Flask" width="326"></a>
 </p>
 
 <p>
@@ -121,29 +100,8 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/OneDesk-University-Portal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-onedesk-dark.png">
-      <img src="./.github/readme/cards/front-onedesk-light.png" alt="OneDesk — University Portal — Java, JavaFX" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/onedesk-dark.png">
-      <img src="./.github/readme/cards/onedesk-light.png" alt="OneDesk — University Portal — Java, JavaFX" width="400">
-    </picture>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/rameenfatima325/Railway-Management-System">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-railway-dark.png">
-      <img src="./.github/readme/cards/front-railway-light.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/railway-dark.png">
-      <img src="./.github/readme/cards/railway-light.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/rameenfatima325/OneDesk-University-Portal"><img src="./.github/readme/cards/sticker-onedesk.png" alt="OneDesk — University Portal — Java, JavaFX" width="326"></a>
+  <a href="https://github.com/rameenfatima325/Railway-Management-System"><img src="./.github/readme/cards/sticker-railway.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="326"></a>
 </p>
 
 <p>
@@ -154,42 +112,12 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Galaxy-Wars">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-galaxy-wars-dark.png">
-      <img src="./.github/readme/cards/front-galaxy-wars-light.png" alt="Galaxy Wars — C++, SFML" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/galaxy-wars-dark.png">
-      <img src="./.github/readme/cards/galaxy-wars-light.png" alt="Galaxy Wars — C++, SFML" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/rameenfatima325/Galaxy-Wars"><img src="./.github/readme/cards/sticker-galaxy-wars.png" alt="Galaxy Wars — C++, SFML" width="326"></a>
+  <a href="https://github.com/rameenfatima325/Xonix-Game"><img src="./.github/readme/cards/sticker-xonix.png" alt="Xonix — C++, SFML" width="326"></a>
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Xonix-Game">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-xonix-dark.png">
-      <img src="./.github/readme/cards/front-xonix-light.png" alt="Xonix — C++, SFML" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/xonix-dark.png">
-      <img src="./.github/readme/cards/xonix-light.png" alt="Xonix — C++, SFML" width="400">
-    </picture>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/rameenfatima325/Super-Mario">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-super-mario-dark.png">
-      <img src="./.github/readme/cards/front-super-mario-light.png" alt="Super Mario Bros (x86 Assembly)" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/super-mario-dark.png">
-      <img src="./.github/readme/cards/super-mario-light.png" alt="Super Mario Bros (x86 Assembly)" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/rameenfatima325/Super-Mario"><img src="./.github/readme/cards/sticker-super-mario.png" alt="Super Mario Bros (x86 Assembly)" width="326"></a>
 </p>
 
 <p>
@@ -200,16 +128,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/DLD-Calculator-Project">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/front-dld-calculator-dark.png">
-      <img src="./.github/readme/cards/front-dld-calculator-light.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="260">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/dld-calculator-dark.png">
-      <img src="./.github/readme/cards/dld-calculator-light.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/rameenfatima325/DLD-Calculator-Project"><img src="./.github/readme/cards/sticker-dld-calculator.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="326"></a>
 </p>
 
 <p>
