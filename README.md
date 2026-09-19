@@ -83,63 +83,93 @@
   <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" height="60">
 </picture>
 
-| Project | Description |
-|---|---|
-| [**Smart City Emergency Response & Optimization System**](https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system) | Python simulation combining CSP (city layout), Simulated Annealing + max-flow (road networks), a Genetic Algorithm (ambulance placement), A\* search (routing with live replanning), and K-Means/Decision Trees (crime-risk prediction). |
-| [**AI Chatbot**](https://github.com/rameenfatima325/AI-Chatbot) | Flask web app wrapping Google Gemini 2.5 Flash with switchable personalities, custom personas, and persistent multi-turn chat history. |
+<a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/smart-city-dark.png">
+    <img src="./.github/readme/cards/smart-city-light.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" height="280">
+  </picture>
+</a>
+<br>
+<a href="https://github.com/rameenfatima325/AI-Chatbot">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/ai-chatbot-dark.png">
+    <img src="./.github/readme/cards/ai-chatbot-light.png" alt="AI Chatbot — Python, Flask" height="263">
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
   <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" height="60">
 </picture>
 
-| Project | Description |
-|---|---|
-| [**OneDesk — University Portal**](https://github.com/rameenfatima325/OneDesk-University-Portal) | JavaFX desktop app centralizing university service requests (academic, financial, certification) with role-based access, audit logging, and Factory/Observer/Strategy/Decorator design patterns. |
-| [**The Iron Nexus — Railway Management System**](https://github.com/rameenfatima325/Railway-Management-System) | Terminal-based C++ system built entirely on hand-rolled data structures — AVL trees, graphs, hash tables + BSTs, stacks — with full undo/redo and persistent storage, no STL containers. |
+<a href="https://github.com/rameenfatima325/OneDesk-University-Portal">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/onedesk-dark.png">
+    <img src="./.github/readme/cards/onedesk-light.png" alt="OneDesk — University Portal — Java, JavaFX" height="263">
+  </picture>
+</a>
+<br>
+<a href="https://github.com/rameenfatima325/Railway-Management-System">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/railway-dark.png">
+    <img src="./.github/readme/cards/railway-light.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" height="263">
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
   <img src="./.github/readme/h3-games-light.png" alt="Games" height="60">
 </picture>
 
-| Project | Description |
-|---|---|
-| [**Galaxy Wars**](https://github.com/rameenfatima325/Galaxy-Wars) | 2D space-survival shooter in C++/SFML built for an OOP course — 40+ classes, boss AI, save/load, and a full exception-handling hierarchy. |
-| [**Xonix**](https://github.com/rameenfatima325/Xonix-Game) | C++/SFML remake of the 1984 arcade classic with two-player mode, three difficulty levels, flood-fill territory capture, and enemy AI patterns. |
-| [**Super Mario Bros (x86 Assembly)**](https://github.com/rameenfatima325/Super-Mario) | A working Mario platformer written in raw MASM x86 Assembly using Irvine32 — physics, enemy AI, scrolling, sound, and a persistent high-score table, all in text-mode console. |
+<a href="https://github.com/rameenfatima325/Galaxy-Wars">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/galaxy-wars-dark.png">
+    <img src="./.github/readme/cards/galaxy-wars-light.png" alt="Galaxy Wars — C++, SFML" height="263">
+  </picture>
+</a>
+<br>
+<a href="https://github.com/rameenfatima325/Xonix-Game">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/xonix-dark.png">
+    <img src="./.github/readme/cards/xonix-light.png" alt="Xonix — C++, SFML" height="263">
+  </picture>
+</a>
+<br>
+<a href="https://github.com/rameenfatima325/Super-Mario">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/super-mario-dark.png">
+    <img src="./.github/readme/cards/super-mario-light.png" alt="Super Mario Bros (x86 Assembly)" height="263">
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
   <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" height="60">
 </picture>
 
-| Project | Description |
-|---|---|
-| [**4-Bit & 8-Bit Digital Calculator**](https://github.com/rameenfatima325/DLD-Calculator-Project) | Digital Logic Design project: a 4-bit ALU built physically on breadboard (plus Proteus simulation) and an 8-bit version in Proteus, with a custom binary-to-BCD converter driving 7-segment displays. |
+<a href="https://github.com/rameenfatima325/DLD-Calculator-Project">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/dld-calculator-dark.png">
+    <img src="./.github/readme/cards/dld-calculator-light.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" height="263">
+  </picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.gif">
   <img src="./.github/readme/h2-github-stats-light.gif" alt="GitHub Stats" height="84">
 </picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
-    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 24 commits, longest streak 4, current streak 1" height="212">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
+  <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 24 commits, longest streak 4, current streak 1" height="212">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
-    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="480">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
+  <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="480">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
-    <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
+  <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
+</picture>
