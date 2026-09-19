@@ -1,12 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.png">
-  <img src="./.github/readme/hero-name-light.png" alt="Rameen Fatima" width="498">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.png">
+    <img src="./.github/readme/hero-name-light.png" alt="Rameen Fatima" width="498">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-tagline-dark.png">
-  <img src="./.github/readme/hero-tagline-light.png" alt="Computer Science Student & Builder" width="347">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-tagline-dark.png">
+    <img src="./.github/readme/hero-tagline-light.png" alt="Computer Science Student & Builder" width="347">
+  </picture>
+</p>
 
 Computer Science student who likes building things end-to-end — AI simulations, custom data structures, OOP games, and a Mario clone in raw x86 Assembly.
 
@@ -18,10 +22,12 @@ Computer Science student who likes building things end-to-end — AI simulations
 - 🛠️ Comfortable across the stack: from breadboard logic gates to Flask web apps
 - 💬 Ask me about C++ data structures, game dev with SFML, or wiring up an LLM chatbot
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.png">
-  <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" width="264">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.png">
+    <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" width="264">
+  </picture>
+</p>
 
 <sub>Icons link to the project (or the tool's own site) — click around.</sub>
 
@@ -65,103 +71,137 @@ Computer Science student who likes building things end-to-end — AI simulations
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/rameenfatima325)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameenfatima325)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.png">
-  <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" width="427">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-ai-algorithms-dark.png">
-  <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" width="286">
-</picture>
-
-<a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/smart-city-dark.png">
-    <img src="./.github/readme/cards/smart-city-light.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="655">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.png">
+    <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" width="427">
   </picture>
-</a>
-<br>
-<a href="https://github.com/rameenfatima325/AI-Chatbot">
+</p>
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/ai-chatbot-dark.png">
-    <img src="./.github/readme/cards/ai-chatbot-light.png" alt="AI Chatbot — Python, Flask" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-ai-algorithms-dark.png">
+    <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" width="286">
   </picture>
-</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
-  <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" width="525">
-</picture>
+<p>
+  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/smart-city-dark.png">
+      <img src="./.github/readme/cards/smart-city-light.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" width="655">
+    </picture>
+  </a>
+</p>
 
-<a href="https://github.com/rameenfatima325/OneDesk-University-Portal">
+<p>
+  <a href="https://github.com/rameenfatima325/AI-Chatbot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/ai-chatbot-dark.png">
+      <img src="./.github/readme/cards/ai-chatbot-light.png" alt="AI Chatbot — Python, Flask" width="654">
+    </picture>
+  </a>
+</p>
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/onedesk-dark.png">
-    <img src="./.github/readme/cards/onedesk-light.png" alt="OneDesk — University Portal — Java, JavaFX" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
+    <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" width="525">
   </picture>
-</a>
-<br>
-<a href="https://github.com/rameenfatima325/Railway-Management-System">
+</p>
+
+<p>
+  <a href="https://github.com/rameenfatima325/OneDesk-University-Portal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/onedesk-dark.png">
+      <img src="./.github/readme/cards/onedesk-light.png" alt="OneDesk — University Portal — Java, JavaFX" width="654">
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/rameenfatima325/Railway-Management-System">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/railway-dark.png">
+      <img src="./.github/readme/cards/railway-light.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="654">
+    </picture>
+  </a>
+</p>
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/railway-dark.png">
-    <img src="./.github/readme/cards/railway-light.png" alt="The Iron Nexus — Railway Management System — C++, Data Structures" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
+    <img src="./.github/readme/h3-games-light.png" alt="Games" width="127">
   </picture>
-</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
-  <img src="./.github/readme/h3-games-light.png" alt="Games" width="127">
-</picture>
+<p>
+  <a href="https://github.com/rameenfatima325/Galaxy-Wars">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/galaxy-wars-dark.png">
+      <img src="./.github/readme/cards/galaxy-wars-light.png" alt="Galaxy Wars — C++, SFML" width="654">
+    </picture>
+  </a>
+</p>
 
-<a href="https://github.com/rameenfatima325/Galaxy-Wars">
+<p>
+  <a href="https://github.com/rameenfatima325/Xonix-Game">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/xonix-dark.png">
+      <img src="./.github/readme/cards/xonix-light.png" alt="Xonix — C++, SFML" width="654">
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/rameenfatima325/Super-Mario">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/super-mario-dark.png">
+      <img src="./.github/readme/cards/super-mario-light.png" alt="Super Mario Bros (x86 Assembly)" width="654">
+    </picture>
+  </a>
+</p>
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/galaxy-wars-dark.png">
-    <img src="./.github/readme/cards/galaxy-wars-light.png" alt="Galaxy Wars — C++, SFML" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
+    <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" width="173">
   </picture>
-</a>
-<br>
-<a href="https://github.com/rameenfatima325/Xonix-Game">
+</p>
+
+<p>
+  <a href="https://github.com/rameenfatima325/DLD-Calculator-Project">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/dld-calculator-dark.png">
+      <img src="./.github/readme/cards/dld-calculator-light.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="654">
+    </picture>
+  </a>
+</p>
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/xonix-dark.png">
-    <img src="./.github/readme/cards/xonix-light.png" alt="Xonix — C++, SFML" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.png">
+    <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" width="307">
   </picture>
-</a>
-<br>
-<a href="https://github.com/rameenfatima325/Super-Mario">
+</p>
+
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/super-mario-dark.png">
-    <img src="./.github/readme/cards/super-mario-light.png" alt="Super Mario Bros (x86 Assembly)" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
+    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 24 commits, longest streak 4, current streak 1" width="700">
   </picture>
-</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
-  <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" width="173">
-</picture>
-
-<a href="https://github.com/rameenfatima325/DLD-Calculator-Project">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/cards/dld-calculator-dark.png">
-    <img src="./.github/readme/cards/dld-calculator-light.png" alt="4-Bit & 8-Bit Digital Calculator — Digital Logic" width="654">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
+    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="480">
   </picture>
-</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.png">
-  <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" width="307">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
-  <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 24 commits, longest streak 4, current streak 1" width="700">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
-  <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="480">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
-  <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
+    <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
+  </picture>
+</p>
