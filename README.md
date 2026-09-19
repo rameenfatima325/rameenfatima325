@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.png">
-    <img src="./.github/readme/hero-name-light.png" alt="Rameen Fatima" height="113">
+    <img src="./.github/readme/hero-name-light.png" alt="Rameen Fatima" height="97">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-tagline-dark.png">
-    <img src="./.github/readme/hero-tagline-light.png" alt="Computer Science Student & Builder" height="55">
+    <img src="./.github/readme/hero-tagline-light.png" alt="Computer Science Student & Builder" height="39">
   </picture>
 </p>
 
@@ -28,7 +28,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.png">
-  <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" height="92">
+  <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" height="76">
 </picture>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-6d2748?style=flat&logo=c%2B%2B&logoColor=white)
@@ -43,12 +43,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.png">
-  <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" height="92">
+  <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" height="76">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-ai-algorithms-dark.png">
-  <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" height="76">
+  <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" height="60">
 </picture>
 
 | Project | Description |
@@ -58,7 +58,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
-  <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" height="76">
+  <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" height="60">
 </picture>
 
 | Project | Description |
@@ -68,7 +68,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
-  <img src="./.github/readme/h3-games-light.png" alt="Games" height="76">
+  <img src="./.github/readme/h3-games-light.png" alt="Games" height="60">
 </picture>
 
 | Project | Description |
@@ -79,7 +79,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
-  <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" height="76">
+  <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" height="60">
 </picture>
 
 | Project | Description |
@@ -88,12 +88,19 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.png">
-  <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" height="92">
+  <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" height="76">
 </picture>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
-    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following" height="138">
+    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following" height="122">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
+    <img src="./.github/readme/language-mix-light.svg" alt="Language mix across repos: C++ 3, Python 2, Java 1, x86 Assembly 1, Digital Logic 1" width="480">
   </picture>
 </p>
