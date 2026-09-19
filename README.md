@@ -141,7 +141,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats-card-dark.png">
-    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 24 commits, longest streak 4, current streak 1" width="700">
+    <img src="./.github/readme/stats-card-light.png" alt="9 public repos, 3 followers, 3 following, 9 stars, 42 commits, longest streak 4, current streak 1" width="760">
   </picture>
 </p>
 
