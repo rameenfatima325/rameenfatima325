@@ -80,12 +80,14 @@ Computer Science student who likes building things end-to-end — AI simulations
   </picture>
 </p>
 
-<p>
+<details>
+<summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-ai-algorithms-dark.png">
     <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" width="286">
   </picture>
-</p>
+</summary>
+<br>
 
 <details>
 <summary><b>Smart City Emergency Response & Optimization System</b> — Python, AI/ML</summary>
@@ -113,12 +115,16 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 </details>
 
-<p>
+</details>
+
+<details>
+<summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
     <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" width="525">
   </picture>
-</p>
+</summary>
+<br>
 
 <details>
 <summary><b>OneDesk — University Portal</b> — Java, JavaFX</summary>
@@ -146,12 +152,16 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 </details>
 
-<p>
+</details>
+
+<details>
+<summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
     <img src="./.github/readme/h3-games-light.png" alt="Games" width="127">
   </picture>
-</p>
+</summary>
+<br>
 
 <details>
 <summary><b>Galaxy Wars</b> — C++, SFML</summary>
@@ -192,12 +202,16 @@ Computer Science student who likes building things end-to-end — AI simulations
 </p>
 </details>
 
-<p>
+</details>
+
+<details>
+<summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
     <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" width="173">
   </picture>
-</p>
+</summary>
+<br>
 
 <details>
 <summary><b>4-Bit & 8-Bit Digital Calculator</b> — Digital Logic</summary>
@@ -211,6 +225,9 @@ Computer Science student who likes building things end-to-end — AI simulations
   </a>
 </p>
 </details>
+
+</details>
+
 
 <p>
   <picture>
