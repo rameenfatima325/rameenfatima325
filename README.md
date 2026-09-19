@@ -1,3 +1,5 @@
+<div align="center">
+
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/hero-name-dark.png">
@@ -17,10 +19,10 @@ Computer Science student who likes building things end-to-end — AI simulations
 [![GitHub](https://img.shields.io/badge/GitHub-rameenfatima325-6d2748?style=flat&logo=github&logoColor=white)](https://github.com/rameenfatima325)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rameen%20Fatima-ae863d?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameen-fatima-ba480a219)
 
-- 🔭 Currently building software for the **Data Structures**, **OOP**, and **AI** courses at FAST-NUCES
-- 🌱 Learning how classic AI search/optimization algorithms (CSP, A*, Genetic Algorithms) come together in one system
-- 🛠️ Comfortable across the stack: from breadboard logic gates to Flask web apps
-- 💬 Ask me about C++ data structures, game dev with SFML, or wiring up an LLM chatbot
+🔭 Currently building software for the **Data Structures**, **OOP**, and **AI** courses at FAST-NUCES<br>
+🌱 Learning how classic AI search/optimization algorithms (CSP, A*, Genetic Algorithms) come together in one system<br>
+🛠️ Comfortable across the stack: from breadboard logic gates to Flask web apps<br>
+💬 Ask me about C++ data structures, game dev with SFML, or wiring up an LLM chatbot
 
 <p>
   <picture>
@@ -31,7 +33,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 
 <sub>Icons link to the project (or the tool's own site) — click around.</sub>
 
-### Languages
+**Languages**
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/rameenfatima325/Railway-Management-System)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rameenfatima325/AI-Chatbot)
@@ -43,7 +45,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/rameenfatima325/AI-Chatbot)
 [![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)](https://github.com/rameenfatima325/Xonix-Game)
@@ -55,7 +57,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system)
 
-### Databases & Hosting
+**Databases & Hosting**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
@@ -64,7 +66,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://github.com/microsoft/terminal)
 
-### Tools & Design
+**Tools & Design**
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
@@ -85,6 +87,9 @@ Computer Science student who likes building things end-to-end — AI simulations
   </picture>
 </p>
 
+<details>
+<summary><b>Smart City Emergency Response & Optimization System</b> — Python, AI/ML</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system">
     <picture>
@@ -93,7 +98,11 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
+<details>
+<summary><b>AI Chatbot</b> — Python, Flask</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/AI-Chatbot">
     <picture>
@@ -102,6 +111,7 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
 <p>
   <picture>
@@ -110,6 +120,9 @@ Computer Science student who likes building things end-to-end — AI simulations
   </picture>
 </p>
 
+<details>
+<summary><b>OneDesk — University Portal</b> — Java, JavaFX</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/OneDesk-University-Portal">
     <picture>
@@ -118,7 +131,11 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
+<details>
+<summary><b>The Iron Nexus — Railway Management System</b> — C++, Data Structures</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/Railway-Management-System">
     <picture>
@@ -127,6 +144,7 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
 <p>
   <picture>
@@ -135,6 +153,9 @@ Computer Science student who likes building things end-to-end — AI simulations
   </picture>
 </p>
 
+<details>
+<summary><b>Galaxy Wars</b> — C++, SFML</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/Galaxy-Wars">
     <picture>
@@ -143,7 +164,11 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
+<details>
+<summary><b>Xonix</b> — C++, SFML</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/Xonix-Game">
     <picture>
@@ -152,7 +177,11 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
+<details>
+<summary><b>Super Mario Bros (x86 Assembly)</b></summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/Super-Mario">
     <picture>
@@ -161,6 +190,7 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
 <p>
   <picture>
@@ -169,6 +199,9 @@ Computer Science student who likes building things end-to-end — AI simulations
   </picture>
 </p>
 
+<details>
+<summary><b>4-Bit & 8-Bit Digital Calculator</b> — Digital Logic</summary>
+<br>
 <p>
   <a href="https://github.com/rameenfatima325/DLD-Calculator-Project">
     <picture>
@@ -177,6 +210,7 @@ Computer Science student who likes building things end-to-end — AI simulations
     </picture>
   </a>
 </p>
+</details>
 
 <p>
   <picture>
@@ -205,3 +239,5 @@ Computer Science student who likes building things end-to-end — AI simulations
     <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
   </picture>
 </p>
+
+</div>
