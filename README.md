@@ -151,14 +151,11 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
-    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="480">
+    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="346">
   </picture>
-</p>
-
-<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
-    <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="480">
+    <img src="./.github/readme/language-mix-light.svg" alt="Language mix by code: C++ 52.98%, Java 31.19%, Assembly 7.73%, CSS 3.73%, TSQL 2.35%, HTML 2.02%" width="408">
   </picture>
 </p>
 
