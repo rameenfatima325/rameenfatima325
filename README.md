@@ -27,7 +27,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-tech-stack-dark.png">
-    <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" width="264">
+    <img src="./.github/readme/h2-tech-stack-light.png" alt="Tech Stack" width="379">
   </picture>
 </p>
 
@@ -76,26 +76,29 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-featured-projects-dark.png">
-    <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" width="427">
+    <img src="./.github/readme/h2-featured-projects-light.png" alt="Featured Projects" width="590">
   </picture>
 </p>
 
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-ai-algorithms-dark.png">
-    <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" width="286">
+    <img src="./.github/readme/h3-ai-algorithms-light.png" alt="AI & Algorithms" width="268">
   </picture>
 </p>
 
 <p>
-  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system"><img src="./.github/readme/cards/sticker-smart-city.png" alt="Smart City Emergency Response & Optimization System — Python, AI/ML" title="View Smart City Emergency Response & Optimization System on GitHub →" width="372"></a>
+  <a href="https://github.com/rameenfatima325/Smart-City-Emergency-Response-and-Optimization-system"><img src="./.github/readme/cards/sticker-smart-city.png" alt="Flagship project — Smart City Emergency Response & Optimization System — Python — CSP, Genetic Algorithms, A*, Simulated Annealing, K-Means, Decision Trees" title="View Smart City Emergency Response & Optimization System on GitHub →" width="768"></a>
+</p>
+
+<p>
   <a href="https://github.com/rameenfatima325/AI-Chatbot"><img src="./.github/readme/cards/sticker-ai-chatbot.png" alt="AI Chatbot — Python, Flask" title="View AI Chatbot on GitHub →" width="372"></a>
 </p>
 
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-systems-desktop-dark.png">
-    <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" width="525">
+    <img src="./.github/readme/h3-systems-desktop-light.png" alt="Systems & Desktop Software" width="451">
   </picture>
 </p>
 
@@ -107,7 +110,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-games-dark.png">
-    <img src="./.github/readme/h3-games-light.png" alt="Games" width="127">
+    <img src="./.github/readme/h3-games-light.png" alt="Games" width="159">
   </picture>
 </p>
 
@@ -123,7 +126,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h3-hardware-dark.png">
-    <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" width="173">
+    <img src="./.github/readme/h3-hardware-light.png" alt="Hardware" width="193">
   </picture>
 </p>
 
@@ -134,7 +137,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/h2-github-stats-dark.png">
-    <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" width="307">
+    <img src="./.github/readme/h2-github-stats-light.png" alt="GitHub Stats" width="434">
   </picture>
 </p>
 
