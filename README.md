@@ -151,7 +151,7 @@ Computer Science student who likes building things end-to-end — AI simulations
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/commit-skyline-dark.svg">
-    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 24 commits over the last 5 months" width="346">
+    <img src="./.github/readme/commit-skyline-light.svg" alt="3D isometric commit activity skyline, 42 commits over the last 4.5 months" width="346">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/language-mix-dark.svg">
