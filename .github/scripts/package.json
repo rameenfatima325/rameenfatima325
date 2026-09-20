@@ -1,0 +1,12 @@
+{
+  "name": "readme-terminal-stats",
+  "private": true,
+  "type": "module",
+  "description": "Fetches real GitHub activity for rameenfatima325 and renders the profile README's terminal-window PNGs.",
+  "scripts": {
+    "fetch-stats": "node fetch-stats.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.56.1"
+  }
+}

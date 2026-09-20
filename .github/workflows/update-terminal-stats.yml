@@ -1,0 +1,49 @@
+name: Update terminal stats
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: .github/scripts/package-lock.json
+
+      - name: Install script dependencies
+        working-directory: .github/scripts
+        run: npm ci
+
+      - name: Install Chromium
+        working-directory: .github/scripts
+        run: npx playwright install --with-deps chromium
+
+      - name: Fetch stats and render terminal PNGs
+        working-directory: .github/scripts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node fetch-stats.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- .github/readme/terminal-dark.png .github/readme/terminal-light.png; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add .github/readme/terminal-dark.png .github/readme/terminal-light.png
+          git commit -m "Update terminal stats"
+          git push
